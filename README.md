@@ -11,8 +11,6 @@ Some Screenshots of this project are given below
 
 ![1 0 Home Page_1](https://user-images.githubusercontent.com/91146041/205282972-18a37392-538a-477a-8fb5-c28636b666c4.png)
 
-![1 1 Home Page_2](https://user-images.githubusercontent.com/91146041/205282986-f5efe4b3-abf6-4059-bb98-50788f8142c7.png)
-
 # Admin Login:
 ![2 0 Admin Login](https://user-images.githubusercontent.com/91146041/205282991-aa2add0e-4442-4041-8535-686f324300fa.png)
 
@@ -35,7 +33,6 @@ Some Screenshots of this project are given below
 ![3 0 Doctor Login](https://user-images.githubusercontent.com/91146041/205283010-3b80f5a6-2a12-46cb-abf5-23c8131f2115.png)
 
 # Doctor Dashboard:
-![3 1 Doctor Dash Board](https://user-images.githubusercontent.com/91146041/205283016-902df9d7-eb76-41f0-9e11-7e2b46390b99.png)
 
 # View list of Patient Appointment:
 ![3 2 Doctor view Patient Appointment](https://user-images.githubusercontent.com/91146041/205283019-fa94c37e-9a82-4195-8724-891d7465ed38.png)
@@ -55,8 +52,7 @@ Some Screenshots of this project are given below
 # User 1 Dashboard:
 ![4 2 1 User Dash Board_1](https://user-images.githubusercontent.com/91146041/205283041-23e6d78f-f3e9-4ef7-95e2-000f44344bdf.png)
 
-# User 2 Dashboard:
-![4 2 2 User dashboar_2](https://user-images.githubusercontent.com/91146041/205283047-6fdc5a37-7da8-4640-90ea-e2768126b58b.png)
+
 
 # Make Appointment Request:
 ![4 3 User Appointment](https://user-images.githubusercontent.com/91146041/205283049-bceb5fdb-e686-4d2b-afe3-0a35bbafa1dd.png)
