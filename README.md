@@ -43,9 +43,6 @@ Some Screenshots of this project are given below
 # User Login:
 ![4 1 User Login](https://user-images.githubusercontent.com/91146041/205283038-1c24b1ad-48e7-452f-8528-8c4609b6b9d6.png)
 
-# Make Appointment Request:
-![4 3 User Appointment](https://user-images.githubusercontent.com/91146041/205283049-bceb5fdb-e686-4d2b-afe3-0a35bbafa1dd.png)
-
 # View list of appointment
 ![4 4 User view appointment](https://user-images.githubusercontent.com/91146041/205283053-6b00959a-a2b1-4285-a040-67e7c1bcbe2c.png)
 
